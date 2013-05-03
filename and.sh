@@ -6,5 +6,6 @@ then
     echo "in if"
 else
     echo "in else"
+	echo "git test"
 fi
 exit 0
